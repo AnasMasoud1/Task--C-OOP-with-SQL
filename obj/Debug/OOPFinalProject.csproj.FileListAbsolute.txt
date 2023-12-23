@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\OOPFinalProject\bin\Debug\OOPFinalProject.exe.config
+C:\Users\Asus\source\repos\OOPFinalProject\bin\Debug\OOPFinalProject.exe
+C:\Users\Asus\source\repos\OOPFinalProject\bin\Debug\OOPFinalProject.pdb
+C:\Users\Asus\source\repos\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\OOPFinalProject\obj\Debug\OOPFinalProject.exe
+C:\Users\Asus\source\repos\OOPFinalProject\obj\Debug\OOPFinalProject.pdb
